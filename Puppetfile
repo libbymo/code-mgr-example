@@ -1,3 +1,3 @@
-# forge modules
+# forge module
 
 mod "puppetlabs/ntp"
