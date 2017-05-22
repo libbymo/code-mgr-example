@@ -1,3 +1,3 @@
 # forge module
 
-mod "puppetlabs/apache"
+mod "puppetlabs/ntp"
